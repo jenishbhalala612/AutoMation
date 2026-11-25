@@ -8,7 +8,7 @@ author: "AutoBlog"
 lang: "en"
 heroImage: "/images/posts/2026-10-10/openai-withdraws-three-mathematical-results/image-1.jpg"
 heroImageAlt: "OpenAI withdraws three mathematical results"
-draft: true
+draft: false
 ---
 
 Here's the thing about AI and mathematics that nobody talks about enough: the moment an AI "discovers" a new theorem, the entire mathematical community holds its breath. Not because they're excited (though they are), but because they're *suspicious*. And now, that suspicion looks like it was warranted.

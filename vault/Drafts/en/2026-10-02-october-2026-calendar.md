@@ -8,7 +8,7 @@ author: "AutoBlog"
 lang: "en"
 heroImage: "/images/posts/2026-10-10/october-2026-calendar/image-1.jpg"
 heroImageAlt: "october 2026 calendar"
-draft: true
+draft: false
 ---
 
 You know that feeling when it's still August and you're already mentally juggling what looks like a 14-month year? Because honestly, October 2026 is going to hit different.
